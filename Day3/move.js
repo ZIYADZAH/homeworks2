@@ -17,4 +17,4 @@ console.log(str1 + num2);
 // ----------------------------------------
 let boolean = true
 let num1 = 1
-console.log(boolean+num1);git 
+console.log(boolean+num1); 
